@@ -4,9 +4,9 @@ namespace LightNovel\SuperDash\ListenPapa;
 require 'ReflectionProperties.php';
 
 class ListenPapa {
-    public $hina = "おいたんだえ？";
-    public $miu  = "デリカシーに欠けてますよ！";
-    public $sora = "おにいちゃんのバカー";
+    public $hina = "おいたんだえ？"; // oitan dae?
+    public $miu  = "デリカシーに欠けてますよ！"; // delicacy ni kaketemasuyo!
+    public $sora = "おにいちゃんのバカー"; // oniichan no baka-!
     use \ReflectionProperties;
 }
 
