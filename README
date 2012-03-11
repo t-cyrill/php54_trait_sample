@@ -1,1 +1,9 @@
 PHP 5.4 trais sample.
+
+Usage.
+
+$ php -v
+# PHP 5.4.0 (cli)
+
+$ php ListenPapa.php
+
